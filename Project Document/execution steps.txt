@@ -1,0 +1,16 @@
+ip-192.168.31.215
+login-id: batch-a6
+password: batch-a6
+
+open cmd and type ssh -X batch-a6@192.168.31.215
+or
+open putty
+type ip address
+type loginid and password
+
+step-1: 
+python3 -m venv .venv
+source .venv/bin/activate
+
+step-2:
+python /home/batch-a6/Documents/project.py
