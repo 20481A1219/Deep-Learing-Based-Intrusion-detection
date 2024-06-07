@@ -3,9 +3,9 @@ import smtplib
 HOST = "smtp.office365.com"
 PORT = 587
 
-FROM_EMAIL = "hruday.boppa@outlook.com"
-TO_EMAIL = "hruday.boppa@gmail.com"
-PASSWORD = "Hruday<me>me19"
+FROM_EMAIL = "xxxx"
+TO_EMAIL = "xxxx"
+PASSWORD = "xxxx"
 
 MESSAGE = """Subject: Intrusion Detection!!!
 
